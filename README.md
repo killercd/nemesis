@@ -1,2 +1,2 @@
 # nemesis
-Simple remote administration tool
+ubiquitous remote code loader
