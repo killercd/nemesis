@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700089861 source:d:\nemesis\load_data\main.cpp
+	<tchar.h>
+	<windows.h>
+

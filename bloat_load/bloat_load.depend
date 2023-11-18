@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699987899 source:d:\nemesis\bloat_load\main.cpp
+	"main.h"
+
+1584205420 d:\nemesis\bloat_load\main.h
+	<windows.h>
+
